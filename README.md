@@ -1,4 +1,6 @@
-<img align=right src="https://riceowls.com/images/2018/9/17/PrattW.jpg?width=300" width=400>
+<img align=right src="https://riceowls.com/images/2019/9/11/Pratt.jpg?width=300" width=400>
+
+<img align=right src="https://riceowls.com/images/2018/9/17/PrattW.jpg?width=300" width=200>
 
 # Welcome to the Kawmp Theme for IntelliJ.
 
